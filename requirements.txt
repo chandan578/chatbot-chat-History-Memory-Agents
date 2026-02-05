@@ -5,4 +5,10 @@ langchain_core
 langchain_openai
 langchain_groq
 streamlit
-
+pymupdf
+langchain-text-splitters    
+faiss-cpu
+langchain
+pypdf
+langchain_huggingface
+sentence-transformers
