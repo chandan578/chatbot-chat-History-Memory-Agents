@@ -12,3 +12,4 @@ langchain
 pypdf
 langchain_huggingface
 sentence-transformers
+langchain_chroma
